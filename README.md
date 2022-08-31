@@ -11,3 +11,5 @@
 > (coming soon)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princepatelcodes&theme=github-light&currStreakLabel=02DD00)](https://git.io/streak-stats)
+
+[![Prince's github activity graph](https://activity-graph.herokuapp.com/graph?username=princepatelcodes)](https://github.com/ashutosh00710/github-readme-activity-graph)
