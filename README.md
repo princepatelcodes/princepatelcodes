@@ -8,7 +8,7 @@
 
 <a href=""> <img width="128" src=".\static\portfolio.png"> </a> 
 
-> (coming soon)
+> (coming soon) ...
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princepatelcodes&theme=github-light&currStreakLabel=02DD00)](https://git.io/streak-stats)
 
