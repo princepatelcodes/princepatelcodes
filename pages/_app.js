@@ -68,6 +68,8 @@ function MyApp({ Component, pageProps }) {
     useSystemColorMode: false,
   })
 
+
+  // removing
   return (
     <ChakraProvider theme={theme}>
       <Component {...pageProps} />
