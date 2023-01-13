@@ -4,11 +4,10 @@
 
 ## Quick Actions
 
-<a href=".\static\resume.pdf"> <img width="128" src=".\static\resume.png"> </a>
+<a href="/static/resume.pdf"> <img width="128" src="https://github.com/princepatelcodes/princepatelcodes/blob/main/assets/portfolio.png?raw=true"> </a>
 
-<a href=""> <img width="128" src=".\static\portfolio.png"> </a> 
+<a href=""> <img width="128" src="https://github.com/princepatelcodes/princepatelcodes/blob/main/assets/resume.png?raw=true"> </a> 
 
-> (coming soon) ...
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princepatelcodes&theme=github-light&currStreakLabel=02DD00)](https://git.io/streak-stats)
 
